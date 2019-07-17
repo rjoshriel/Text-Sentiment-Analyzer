@@ -1,3 +1,5 @@
+**Text Sentiment Analyzer** 
+
 The analyzer must gather all the insights of a certain user and use it to identify other insights of the product users and buyers. They will be having a space or text box where they can put all their insights or reviews regarding our products. The reviews they have submitted in our analyzer will later then be on sorted into a negative or positive reviews. 
 
 Getting Started
