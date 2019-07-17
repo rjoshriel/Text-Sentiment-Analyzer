@@ -2,7 +2,7 @@
 
 The analyzer must gather all the insights of a certain user and use it to identify other insights of the product users and buyers. They will be having a space or text box where they can put all their insights or reviews regarding our products. The reviews they have submitted in our analyzer will later then be on sorted into a negative or positive reviews. 
 
-Getting Started
+**Installation**
 
 install sqlite3 and DBbrowser on ubuntu terminal to check results via :
 
@@ -14,11 +14,10 @@ install python3 to run this program in ubuntu terminal via :
     sudo apt-get install python3
 
 
+**Features**
 
-Features
 
-
-Team
+**Team**
 
 ![aaa](https://user-images.githubusercontent.com/50911396/61360745-a0163b00-a8b1-11e9-9efd-9b935e04fa93.jpg)
                                       ![aaaa](https://user-images.githubusercontent.com/50911396/61360827-cf2cac80-a8b1-11e9-8abd-79f047d9879e.jpg)
