@@ -44,6 +44,8 @@ class Ui_feedbackRating(object):
         self.comboBox.setMinimumContentsLength(0)
         self.comboBox.setObjectName("comboBox")
         self.comboBox.addItems(["0", "1", "2", "3", "4", "5"])
+        
+        self.cancelButton.clicked.connect(self.cancelButton_clicked)
 
         self.retranslateUi(feedbackRating)
         QtCore.QMetaObject.connectSlotsByName(feedbackRating)
@@ -55,6 +57,9 @@ class Ui_feedbackRating(object):
         self.label_2.setText(_translate("feedbackRating", "Rating:"))
         self.submitButton.setText(_translate("feedbackRating", "Submit"))
         self.cancelButton.setText(_translate("feedbackRating", "Cancel"))
+        
+    def cancelButton_clicked(self):
+        sys.exit()
 
 
 if __name__ == "__main__":
