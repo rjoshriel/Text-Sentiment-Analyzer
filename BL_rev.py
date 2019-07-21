@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 21 17:23:47 2019
-
-@author: josh
-"""
-
 from DAL_Reviews import DAL_rev
 
 class BL_Reviews(object):
