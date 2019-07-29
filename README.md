@@ -14,7 +14,14 @@ install python3 to run this program in ubuntu terminal via :
     sudo apt-get install python3
 
 
-**Features**
+**Instruction**<br/>
+<i>1. Download or Clone all Files under the master branch.<br/>
+    2. Unzip all files in a single folder<br/>
+    3. Open the Login.py file then build and compile the program to test run it. <br/>
+    4. The program will ask the user to input his/her name then press enter or press the enter button<br/>
+    5. Upon entering the username, the user will now be asked to enter his/her feedback.<br/>
+    6. In the dropdown list, the user must choose from 1,2,3,4,or 5 as his/her feedback for our product.<br/>
+    7. Upon entering the feedback and rating, another window will be shown which is the databasse, the user has an option to load all the database , show all positive reviews, show all negative reviews or exit the program.
 
 
 **Team**
